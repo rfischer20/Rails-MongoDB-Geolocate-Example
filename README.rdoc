@@ -12,3 +12,4 @@ working with Geospatial Indexing.
 
 Create new rails application without ActiveRecord and skip tests since we will be using RSpec
   rails new Rails-MongoDB-Geolocate -T  -O
+
