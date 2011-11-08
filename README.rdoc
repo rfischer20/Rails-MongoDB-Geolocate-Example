@@ -1,0 +1,14 @@
+= Work In Progress
+
+= Rails MongoDB Geospatial 
+An example application using the Mongo Ruby Driver with Rails 3.1 to demonstrate 
+working with Geospatial Indexing.
+
+== Requirements
+* Ruby > 1.9.2
+* Working installation of MongoDB > 2.0 www.mongodb.com
+
+== Tutorial
+
+Create new rails application without ActiveRecord and skip tests since we will be using RSpec
+  rails new Rails-MongoDB-Geolocate -T  -O
